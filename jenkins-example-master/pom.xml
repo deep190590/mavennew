@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/app/repo:oYj6d3N5qRyByDgP22Uz/</url>
+            <url>https://mymavenrepo.com/repo/DeL1Xtqsa1quQJiPkfYO/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/app/repo:oYj6d3N5qRyByDgP22Uz/</url>
+            <url>https://mymavenrepo.com/repo/DeL1Xtqsa1quQJiPkfYO/</url>
         </repository>
     </distributionManagement>
 
